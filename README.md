@@ -8,3 +8,4 @@ Use of:
  * JDBC (Java Database Connectivity) driver ( MySQL Connector/J)
 
 ** An insertion mysql file is included to populate the database with data.
+** Edit the properties file in order to use your own password for your database server.
